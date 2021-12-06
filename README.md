@@ -16,3 +16,18 @@ In the next part of the project I am using different prediction models, such as 
  - Training performance: 0.5608195569734472
   - Testing performance: 0.5658893861862508
   - Testing RMSE: 1094.3954147875163
+
+2. Decision Tree Model:
+ - Training performance: 1.0
+ - Testing performance: 0.20754075179420584
+ - Testing RMSE: 1478.6402765081582
+
+3. Bagged trees model:
+ - Training performance: 0.9183381440590822
+ - Testing performance: 0.5219267946227696
+ - Testing RMSE: 1148.4742554993145
+
+4. Random forest model:
+ - Training performance: 0.938104156769368
+ - Testing performance: 0.5536129570462698
+ - Testing RMSE: 1109.7620074054237
