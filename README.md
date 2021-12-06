@@ -31,3 +31,5 @@ In the next part of the project I am using different prediction models, such as 
  - Training performance: 0.938104156769368
  - Testing performance: 0.5536129570462698
  - Testing RMSE: 1109.7620074054237
+
+Linear regression model has the best testing score as well as the best RMSE, so i would recommend to use this model.
