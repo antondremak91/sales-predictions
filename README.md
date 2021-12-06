@@ -15,3 +15,4 @@ In the next part of the project I am using different prediction models, such as 
 1. Linear regression model:
  - Training performance: 0.5608195569734472
   - Testing performance: 0.5658893861862508
+  - Testing RMSE: 1094.3954147875163
