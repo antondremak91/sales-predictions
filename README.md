@@ -13,5 +13,5 @@ Here we can see that small outlets are doing way better in selling seafood and s
 In the next part of the project I am using different prediction models, such as Linear regression, Decision Tree model, Bagged Tree model and Random Forest model. After applying all four of them to this dataset, I am comparing the results:
 
 1. Linear regression model:
-*Training performance: 0.5608195569734472
-*esting performance: 0.5658893861862508
+ *Training performance: 0.5608195569734472
+ *Testing performance: 0.5658893861862508
